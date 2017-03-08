@@ -1,0 +1,19 @@
+{
+  "name": "xhr-node",
+  "version": "1.0.0",
+  "description": "Node app for XHR processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "express": "^4.14.1",
+    "nodemon": "^1.11.0"
+  },
+  "keywords": [
+    "xhr-node",
+    "efp-xhr"
+  ],
+  "author": "EFP-GMX",
+  "license": "ISC"
+}

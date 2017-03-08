@@ -1,0 +1,130 @@
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 0;
+    overflow: hidden;
+    background-color:orange;
+}
+
+
+ 
+li {
+    float: left;
+}
+li1 {
+    float: right;
+}
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li1 a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #555;
+}
+.container {
+    position: absolute;
+}
+
+.center{
+     position: absolute;
+    top: 20%;
+    left:50%;
+    transform: translate(-50%, -20%);
+    font-size: 18px;
+    
+}
+
+
+.center1 {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    font-size: 18px;
+}
+.center2 {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    font-size: 18px;
+}
+.center3 {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    font-size: 18px;
+}
+.center4 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    font-size: 18px;
+}
+.center5 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    font-size: 18px;
+}
+.center6 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    font-size: 18px;
+}
+.center7 {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    font-size: 18px;
+}
+.center8 {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    font-size: 18px;
+}
+
+.center9 {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    font-size: 18px;
+}
+.button {
+    background-color: orange;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button5 {
+	border-radius: 12px;
+}
+.size {
+    border-radius: 6px;
+}
+.text {
+    width: 400px;
+    height: 25px;
+}
